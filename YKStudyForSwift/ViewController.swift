@@ -74,7 +74,13 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
             
             self.navigationController?.pushViewController(VC1, animated: true)
             
-
+        }
+        
+        if indexPath.row == 1
+        {
+            let VC2 = Day1UIController()
+            
+            self.navigationController?.pushViewController(VC2, animated: true)
             
         }
         

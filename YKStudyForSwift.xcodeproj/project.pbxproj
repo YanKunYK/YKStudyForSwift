@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		821C07021F6289A400E61C33 /* Day1BaseGrammarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821C07011F6289A400E61C33 /* Day1BaseGrammarController.swift */; };
+		821C07051F62A9F600E61C33 /* Day1UIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821C07031F62A9F600E61C33 /* Day1UIController.swift */; };
+		821C07061F62A9F600E61C33 /* Day1UIController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 821C07041F62A9F600E61C33 /* Day1UIController.xib */; };
 		82CA42E21F6279E7003F8AC8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CA42E11F6279E7003F8AC8 /* AppDelegate.swift */; };
 		82CA42E41F6279E7003F8AC8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CA42E31F6279E7003F8AC8 /* ViewController.swift */; };
 		82CA42E71F6279E7003F8AC8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82CA42E51F6279E7003F8AC8 /* Main.storyboard */; };
@@ -36,6 +38,8 @@
 
 /* Begin PBXFileReference section */
 		821C07011F6289A400E61C33 /* Day1BaseGrammarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day1BaseGrammarController.swift; sourceTree = "<group>"; };
+		821C07031F62A9F600E61C33 /* Day1UIController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day1UIController.swift; sourceTree = "<group>"; };
+		821C07041F62A9F600E61C33 /* Day1UIController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Day1UIController.xib; sourceTree = "<group>"; };
 		82CA42DE1F6279E7003F8AC8 /* YKStudyForSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YKStudyForSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82CA42E11F6279E7003F8AC8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82CA42E31F6279E7003F8AC8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +106,8 @@
 				82CA42E11F6279E7003F8AC8 /* AppDelegate.swift */,
 				82CA42E31F6279E7003F8AC8 /* ViewController.swift */,
 				821C07011F6289A400E61C33 /* Day1BaseGrammarController.swift */,
+				821C07031F62A9F600E61C33 /* Day1UIController.swift */,
+				821C07041F62A9F600E61C33 /* Day1UIController.xib */,
 				82CA42E51F6279E7003F8AC8 /* Main.storyboard */,
 				82CA42E81F6279E7003F8AC8 /* Assets.xcassets */,
 				82CA42EA1F6279E7003F8AC8 /* LaunchScreen.storyboard */,
@@ -237,6 +243,7 @@
 			files = (
 				82CA42EC1F6279E7003F8AC8 /* LaunchScreen.storyboard in Resources */,
 				82CA42E91F6279E7003F8AC8 /* Assets.xcassets in Resources */,
+				821C07061F62A9F600E61C33 /* Day1UIController.xib in Resources */,
 				82CA42E71F6279E7003F8AC8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -264,6 +271,7 @@
 			files = (
 				821C07021F6289A400E61C33 /* Day1BaseGrammarController.swift in Sources */,
 				82CA42E41F6279E7003F8AC8 /* ViewController.swift in Sources */,
+				821C07051F62A9F600E61C33 /* Day1UIController.swift in Sources */,
 				82CA42E21F6279E7003F8AC8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

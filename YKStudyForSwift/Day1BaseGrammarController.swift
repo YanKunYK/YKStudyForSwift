@@ -48,6 +48,16 @@ class Day1BaseGrammarController: UIViewController {
         print(a)
         
         
+        var aArray = [String]()
+        
+        aArray.append("sex")
+        
+        var jnfjanf = [String]()
+        
+        jnfjanf.append("asfasfa")
+
+        
+        
         
         
         
